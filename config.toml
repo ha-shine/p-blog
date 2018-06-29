@@ -1,0 +1,26 @@
+baseURL = "https://blog.shine.rocks/"
+languageCode = "en-us"
+title = "Shine"
+theme = "hyde"
+
+[menu]
+
+    [[menu.main]]
+        identifier = "about"
+        name = "About"
+        url = "/about/"
+
+[params]
+    description = 'I write stuffs related to computers'
+
+    [[params.socialLinks]]
+        url = "https://github.com/ha-shine"
+        class = "fab fa-github"
+
+    [[params.socialLinks]]
+        url = "https://twitter.com/_sha94"
+        class = "fab fa-twitter"
+
+    [[params.socialLinks]]
+        url = "https://www.linkedin.com/in/htet-aung-shine-79654192/"
+        class = "fab fa-linkedin"
