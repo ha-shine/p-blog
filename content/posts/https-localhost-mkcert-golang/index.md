@@ -4,6 +4,10 @@ date: 2018-07-01T02:53:11+08:00
 ---
 
 [mkcert](https://github.com/FiloSottile/mkcert) is a simple utility tool written in Go to make locally-trusted certificates with ease.
+This tool makes setting up https server for localhost easy as pie.
+
+<!--more-->
+
 You can take a look at it's project page on how to install.
 On mac, with homebrew it's pretty straight forward.
 
