@@ -1,7 +1,6 @@
 ---
 title: "Markov Text Generator and Myanmar Language"
 date: 2018-06-29T18:14:57+08:00
-draft: true
 ---
 So **what exactly is a markov chain?**
 
