@@ -1,7 +1,6 @@
 ---
 title: "About"
 date: 2018-06-29T19:27:09+08:00
-draft: true
 headless: true
 hidden: true
 ---
